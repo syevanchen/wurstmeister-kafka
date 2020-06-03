@@ -1,0 +1,1 @@
+FROM wurstmeister/kafka:0.11.0.1
